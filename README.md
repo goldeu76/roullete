@@ -2,7 +2,7 @@
 
 #작성 에디터 버전 : 2022.3.17f1
 
-## 🎰 Roulette Game
+## 🎰 Roulette Gam
 
 Unity로 처음 만든 아주 단순한 2D 랜덤 룰렛 프로젝트입니다.
 
